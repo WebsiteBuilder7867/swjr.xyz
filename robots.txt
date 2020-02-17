@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /multiplechoicequiztemplate.php
+Disallow: /results.html
+Disallow: /tensesquiz1results.php
+Disallow: /useoftensesresults.php
+Disallow: /presperpastsimresults.hp
+Disallow: /php-info.php
+Disallow: /images/?C=M;O=D
+Disallow: /fonts/
+Disallow: /images/libs/
+Disallow: /css/
+Disallow: /images/?C=D;O=D
+Disallow: /fonts/Opensans/
+Disallow: /images/?C=S;O=A
+Disallow: /libs/
+Disallow: /images/
+Disallow: /results.htm
+Disallow: /images/?C=M;O=A
+Disallow: /images/?C=S;O=D
+
