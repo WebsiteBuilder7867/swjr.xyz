@@ -1,17 +1,9 @@
 
-<!DOCTYPE html>
-<html lang="en-GB">
-  <head>
-    <meta charset="UTF-8">
+
     <title>Answers for Use of Tenses Quiz</title>
     <meta name="description" content="Results of useoftenses quiz">
     <meta name="keywords" content="use of tenses, ielts">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link href="style.css" rel="stylesheet"><!--must come after bootstrap-->
-  </head>
-  <body>
+    
     <div class="container">
       <div class="content">
     
@@ -366,13 +358,6 @@
             </div><!--col 1-->
           </div><!--row3-->
 
-        </div><!--centeralign-->
-
-        <div class="copyright">    
-          <p>Copyright 2017 by Steven WJ Richards.<br>All Rights Reserved.</p>
-        </div><!--copyright-->
-
       </div><!--content-->
     </div><!--container-->
-  </body>
-</html>
+  

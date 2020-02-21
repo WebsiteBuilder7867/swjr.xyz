@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Answers</title>
-        <meta name="description" content="Present Perfect and Past Simple English Language online test.">
-        <meta name="keywords" content="present perfect and Past Simple, tenses, English">
-        <meta name="viewport" content="width=device-width,initial-scale=1">
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-        <link href="style.css" rel="stylesheet"><!--must come after bootstrap-->
-    </head>
 
-    <body>
         <div class="container">
             <div class="content">
 
@@ -407,10 +394,6 @@
                         ?>
                     </div><!--col-->
                 </div><!--row 3-->
-
-                <div class="copyright">    
-                    <p>Copyright 2017 by Steven WJ Richards.<br>All Rights Reserved.</p>
-                </div><!--copyright-->
 
             </div><!--content-->
         </div><!--container-->

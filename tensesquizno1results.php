@@ -1,25 +1,12 @@
-<!DOCTYPE html>
-<html lang="en-GB">
-  <head>
-    <meta charset="UTF-8">
+
     <title>General Tenses Quiz Results</title>
     <meta name="description" content="Present and Future English Language online test.">
     <meta name="keywords" content="present, future, tenses, English">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link rel="shortcut icon" href="images/favicon.ico">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-    <link href="style.css" rel="stylesheet">
-  <head>
+    
   <body>  
     <div class="container">
       <div class="content">
-
-        <div class="row"><!-- row 1 -->   
-          <div class="col-sm-12">
-            <h1>General Tenses - Quiz Results</h1>
-          </div>                    
-        </div><!--row 1-->    
-        
+               
         <?php
           $question1 = $_POST['question1'];
           $question2 = $_POST['question2'];
@@ -369,10 +356,6 @@
             ?>
         </div><!--row 4-->  
     
-        <div class="copyright">    
-          <p>Copyright 2017 by Steven WJ Richards.<br>All Rights Reserved.</p>
-        </div><!--copyright-->
-
       </div><!--content-->
     </div><!--container-->
   </body>
